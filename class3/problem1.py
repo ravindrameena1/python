@@ -1,0 +1,11 @@
+a= "ravindra"
+print("The fist latter of a is:",a[0])
+print("The second latter of a is:",a[1])
+print("The third latter of a is:",a[2])
+print("The fourth latter of a is:",a[3])
+print("The fifth latter of a is:",a[4])
+print("The sixth latter of a is:",a[5])
+print("The seven latter of a is:",a[6])
+print("The eight latter of a is:",a[7])
+b= (len(a))
+print("Length of a is",b)
